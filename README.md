@@ -84,7 +84,7 @@ Top 5 LEO altitude hotspots (100-km bins):
 
 Intallation
 
-clone the repo 
+clone the repo: 
 git clone https://github.com/YOUR-USERNAME/SpaceAware-LEO-Analysis.git
 cd SpaceAware-LEO-Analysis
 
