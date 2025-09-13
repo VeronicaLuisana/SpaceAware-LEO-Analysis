@@ -1,0 +1,15 @@
+SpaceAware – Key Numbers Recap
+==================================
+All objects: 30000
+LEO objects: 27752
+Debris in LEO: 7371  (26.56%)
+Starlink (all): 9675
+Starlink in LEO: 9666  (34.83%)
+Decay-risk in LEO (<300 km perigee): 180  (0.65%)
+Top 5 LEO altitude hotspots (100-km bins):
+   500–600  km : 7188 objects
+   400–500  km : 5326 objects
+   700–800  km : 2562 objects
+   800–900  km : 2500 objects
+   900–1000 km : 1942 objects
+Top 3 inclination bands in LEO: [95, 100), [50, 55), [40, 45)

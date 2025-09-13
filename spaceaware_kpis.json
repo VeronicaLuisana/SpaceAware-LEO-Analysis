@@ -1,0 +1,43 @@
+{
+  "total_objects_all_regions": 30000,
+  "total_objects_LEO": 27752,
+  "debris_in_LEO_count": 7371,
+  "debris_in_LEO_share_pct": 26.56,
+  "starlink_total": 9675,
+  "starlink_in_LEO_count": 9666,
+  "starlink_in_LEO_share_pct": 34.83,
+  "decay_risk_LEO_count": 180,
+  "decay_risk_LEO_share_pct": 0.65,
+  "top5_LEO_altitude_hotspots_100km_bins": [
+    {
+      "low_km": 500,
+      "high_km": 600,
+      "count": 7188
+    },
+    {
+      "low_km": 400,
+      "high_km": 500,
+      "count": 5326
+    },
+    {
+      "low_km": 700,
+      "high_km": 800,
+      "count": 2562
+    },
+    {
+      "low_km": 800,
+      "high_km": 900,
+      "count": 2500
+    },
+    {
+      "low_km": 900,
+      "high_km": 1000,
+      "count": 1942
+    }
+  ],
+  "top3_inclination_bands_LEO": [
+    "[95, 100)",
+    "[50, 55)",
+    "[40, 45)"
+  ]
+}
