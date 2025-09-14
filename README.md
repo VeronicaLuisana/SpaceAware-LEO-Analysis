@@ -102,4 +102,4 @@ jupyter notebook Final_udl_elset.ipynb
 Datathon Team: Space Aware Trio 
 Focused on advancing space sustainability through data-driven analysis.  
 - [@kayeneii](https://github.com/kayeneii) 
-- Shruthi Bhaskaran 
+- Shruthi Bhaskaran @ShruthiBMK
