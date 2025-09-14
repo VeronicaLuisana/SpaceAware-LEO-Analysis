@@ -42,7 +42,7 @@ Workflow:
 	2.	Perform data cleaning & validation (missing values, duplicates, schema).
 	3.	Merge with SatCat metadata to classify debris vs payloads.
 	4.	Tag Starlink satellites using CelesTrak TLEs.
-	5.	Analyze altitude hotspots, RAAN–inclination planes, debris overlap, and decay-risk candidates.
+	5.	Analyze altitude hotspots, RAAN–inclination planes, debris overlap, decay-risk candidates and growth trend
 
 ⸻
 
@@ -51,7 +51,9 @@ Workflow:
 	•	Debris Load: 26% of LEO objects are debris, with hotspots overlapping with active payloads.
 	•	Starlink Impact: Starlink dominates the 53° inclination band, significantly contributing to congestion.
 	•	Decay Risk: Hundreds of satellites are below 300 km perigee, indicating likely re-entry in the near term.
-	•	Overlap Zones: Certain altitude bands contain Starlink, non-Starlink, and debris together, raising collision risks.
+	•	Overlap Zones: Certain altitude bands contain Starlink, non-Starlink, and debris together, raising collision risks
+ 	•	LEO satellites are growing at ~28% CAGR, projected to exceed 45,000 by 2030 — raising risks of congestion and collisions
+ 
 
 ⸻
 
@@ -63,6 +65,8 @@ Key plots (included in repo):
 	•	raan_vs_inclination_heatmap.png – Orbital plane density.
 	•	leo_overlap_hotspots.png – Starlink, non-Starlink, and debris overlap.
 	•	leo_decay_risk_histogram.png – Satellites with reentry risk.
+    •	leo_growth_trend.png – Satellites with reentry risk.
+    
 
 ⸻
 
